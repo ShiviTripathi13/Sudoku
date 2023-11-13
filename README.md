@@ -4,5 +4,5 @@ Check out this amazing game and share the experience!!!
 
 # Contributors
 **[Shivangi Tripathi](https://github.com/ShiviTripathi13) <br>
-[Samriddhi Varshney]()<br>
-[Shivi Sharma]()**
+[Samriddhi Varshney](https://github.com/SAMRADHIVARSHNEY)<br>
+[Shivi Sharma](https://github.com/shivisharma2003)**
